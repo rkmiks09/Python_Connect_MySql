@@ -3,6 +3,7 @@ Install Local MySql Server, Ex -XAMPP
 Run Both Applications Vscode & XAMPP Server 
 In XAMPP You need to ON MySql & Apache Server
 In Xampp Control Panel you need to note down the port no. Ex- Default port - 3360
-Now, Copy Repository connect.py file (Start from )
+Default User = "root" but you need to Set Password " "
+Now, Copy Repository connect.py file (Start from import mysql.connector as connection)
 paste it in VScode Editor 
 save and run in the Terminal of VScode.
